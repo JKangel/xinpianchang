@@ -1,0 +1,6 @@
+pymysql
+django==1.11
+django-debug-toolbar
+redis
+python-memcached
+requests
